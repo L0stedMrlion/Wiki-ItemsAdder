@@ -2,7 +2,7 @@
 description: This website helps you configuring and creating custom items for my plugin
 ---
 
-# 👋 Welcome
+# 👋 Vítej
 
 Some of this website pages may contain affiliate links, meaning I get a commission if you decide to make a purchase (at no cost to you).
 
